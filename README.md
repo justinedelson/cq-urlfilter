@@ -6,6 +6,8 @@ This filter implements a generic strategy for handling selector, extension, and 
 
 This version of the filter uses the CQ `ComponentManager` to read these properties.
 
+## Configuration
+
 Once installed, this filter needs to be configured with a set of properties. Generally, these would be set on the page component node. The properties are:
 
 * `allowedExtensions` (String[]) - one or more allowed extensions
