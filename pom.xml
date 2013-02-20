@@ -8,6 +8,13 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>CQ URL Filter</name>
     <description>Filter which limits access to selectors/extensions based on component configuration</description>
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
     <build>
         <plugins>
             <plugin>
